@@ -5,9 +5,9 @@ float y;
 
 public:
 Data();
-void setY(float b)
+void setY(float b);
 Data (int a, float b);
-int getX()
+int getX();
 float getY();
 void setX(int a);
 };
